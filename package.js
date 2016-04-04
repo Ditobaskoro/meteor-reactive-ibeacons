@@ -10,7 +10,7 @@ Package.describe({
  * Cordova plugin dependencies
  */
 Cordova.depends({
-  'com.unarin.cordova.beacon': '3.3.0'
+  'com.unarin.cordova.beacon': '3.4.1'
 });
 
 Package.onUse(function(api) {
